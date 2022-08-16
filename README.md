@@ -3,3 +3,6 @@ Contiene los ejercicios para aprender control de versiones con Git y Github
 Prueba
 
 Esta linea representa el segundo commiit web
+
+
+Esta linea representa el primer commit en terminal a un repositorio wn github.com
