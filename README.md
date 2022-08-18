@@ -12,4 +12,7 @@ Esta linea representa el primer commit en terminal a un repositorio wn github.co
 Este es el segundo commit por  terminal a github
 
 
-Esta linea representa el primer commit por onterfaz virtual con GitHub Desktop
+Esta linea representa el primer commit por interfaz virtual con GitHub Desktop
+
+
+Commit para ejercitar git pull en Github Desktop
