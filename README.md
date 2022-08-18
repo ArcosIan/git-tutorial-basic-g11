@@ -16,3 +16,5 @@ Esta linea representa el primer commit por interfaz virtual con GitHub Desktop
 
 
 Commit para ejercitar git pull en Github Desktop
+
+Esta linea representa el uso de SourceControl para el manejo de repositorios con Visual Studio Code
