@@ -8,4 +8,4 @@ Esta linea representa el segundo commiit web
 Esta linea representa el primer commit en terminal a un repositorio wn github.com
 
 
-Este es el segundo commit por hecho terminal a github
+Este es el segundo commit por  terminal a github
